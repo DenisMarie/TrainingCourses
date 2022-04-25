@@ -9,4 +9,4 @@ The second training course introduces the R package \texttt{BayesSUR} for implem
 
 The third training course presents the statistical approach developed during the first part of the ISULO project (see https://github.com/DenisMarie/HS-GMRF). Applications on simulated and real datasets are performed.
 
-The fourth training course introduces Bayesian variable selection approaches and presents the statistical approach finished during the first part of the ISULO project (see https://github.com/Heuclin/VCGSS). Appications on real data are performed. 
+The fourth training course introduces Bayesian variable selection approaches and presents the statistical approach finished during the first part of the ISULO project (see https://github.com/Heuclin/VCGSS). Applications on real data are performed. 
