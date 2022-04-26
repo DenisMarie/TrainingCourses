@@ -1,4 +1,9 @@
+Marie Denis 
+
+![](logo.png)
+
 # Training courses
+
 Training courses taught in the framework of the project "Innovative Statistical modelling for a better Understanding of Longitudinal multivariate responses in relation to Omic datasets" (ISULO) funded from the European Commission under grant agreement No 840383. 
 
 For each training course, R code are provided to reproduce the analyses. 
